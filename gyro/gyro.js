@@ -1,4 +1,4 @@
-document.getElementById("id_logic").innerHTML = "Logic = 2019.11.04.2";
+document.getElementById("id_logic").innerHTML = "Logic = 2019.11.04.3";
 
 window.addEventListener("deviceorientation", on_gyro_data_uab);
 window.addEventListener("devicemotion", on_acc_data_uab);
