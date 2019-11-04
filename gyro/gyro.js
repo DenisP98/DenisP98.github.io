@@ -10,7 +10,7 @@ function desenare(unghi_x, unghi_y)
 	//obtinem referinta la contextual
 	var context = canvas.getContext("2d");
 	//stergem canvasul
-	context.clarReact(0, 0, canvas.width, canvas height)
+	context.clearReact(0, 0, canvas.width, canvas height)
 	//incepem sa construim o cale (path)
 	context.beginPath();
 	var r = 10;
